@@ -1,0 +1,10 @@
+com/kimtaehyun84/springboot_webservice/domain/posts/PostsRepositoryTest.java
+ com.kimtaehyun84.springboot_webservice.domain.posts.PostsRepositoryTest
+com/kimtaehyun84/springboot_webservice/web/HelloControllerTest.java
+ com.kimtaehyun84.springboot_webservice.web.HelloControllerTest
+com/kimtaehyun84/springboot_webservice/web/IndexControllerTest.java
+ com.kimtaehyun84.springboot_webservice.web.IndexControllerTest
+com/kimtaehyun84/springboot_webservice/web/dto/HelloResponseDtoTest.java
+ com.kimtaehyun84.springboot_webservice.web.dto.HelloResponseDtoTest
+com/kimtaehyun84/springboot_webservice/web/PostsApiControllerTest.java
+ com.kimtaehyun84.springboot_webservice.web.PostsApiControllerTest
